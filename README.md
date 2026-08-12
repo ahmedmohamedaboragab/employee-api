@@ -1,4 +1,4 @@
-# Employee Management API
+# Employee Management Staging API
 
 A RESTful Employee Management API built with **Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, and Spring Security with JWT authentication**.
 
